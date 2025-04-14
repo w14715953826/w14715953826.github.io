@@ -1,0 +1,19 @@
+title: "Upperboat"
+logo: "/images/bio_photo.png?raw=true"
+description: >
+  Welcome to Upperboat — a place where creativity meets insight. 
+  <br><br>
+  I'm passionate about data, strategy, and innovation.
+  <br><br>
+  <a href="https://www.linkedin.com/in/larrychencpa/" target="_blank">View My LinkedIn Profile</a>
+
+theme: jekyll-theme-minimal
+
+show_downloads: false
+google_analytics: ""  # Add your GA tracking ID if needed, e.g., "UA-XXXXXXXXX-X"
+author:
+  name: "Larry Chen"
+  email: "larry.chen@upperboat.com"
+
+# Build settings
+markdown: kramdown
