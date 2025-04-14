@@ -12,8 +12,8 @@ theme: jekyll-theme-minimal
 show_downloads: false
 google_analytics: ""  # Add your GA tracking ID if needed, e.g., "UA-XXXXXXXXX-X"
 author:
-  name: "Larry Chen"
-  email: "larry.chen@upperboat.com"
+  name: "Aylin Wang"
+  email: "wjialin1995@gmail.com"
 
 # Build settings
 markdown: kramdown
