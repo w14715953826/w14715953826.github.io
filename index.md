@@ -1,4 +1,4 @@
-# Welcome to My Portfolio
+# Welcome to My Profolio
 
 ---
 ### Learn About My Projects
