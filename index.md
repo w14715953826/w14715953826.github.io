@@ -7,4 +7,4 @@
 This project showcases my skills in applying machine learning and data processing to a public sector case. Using Python, SQL, and visualization tools, I built models to identify institutions likely lacking meal services, helping improve resource allocation in nutrition programs.
 
 ---
-#### [Demo](https://w14715953826.github.io)
+
